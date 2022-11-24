@@ -1,0 +1,56 @@
+
+
+
+
+footer{
+    position:absolute;
+    bottom: 0;
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    text-align: center;
+    border: rgba(0, 0, 0, 0.344) solid 1px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+a{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.514);
+    font-size: large;
+    font-weight: bold;
+}
+
+.texto a{
+    margin-left: 50px;
+}
+
+.texto a:hover{
+    color: black;
+}
+
+.icones{
+    margin-right: 50px;
+}
+
+.icones a{
+    margin-left: 10px;
+}
+
+.zapzap:hover{
+    color: #25d366;
+}
+
+.linkedin:hover{
+    color:#0e76a8;
+}
+
+.book:hover{
+    color:#3b5999;
+}
+
+.carousel-item{
+
+    margin: 0;
+}
